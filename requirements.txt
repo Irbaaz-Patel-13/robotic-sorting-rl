@@ -1,0 +1,33 @@
+# Robotic Pick-and-Place with Reinforcement Learning
+# Requirements file
+#
+# Install with: pip install -r requirements.txt
+# Note: For GPU support, install PyTorch with CUDA first:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# Core RL libraries
+stable-baselines3>=2.1.0
+sb3-contrib>=2.1.0
+gymnasium>=0.29.0
+
+# Simulation environment
+panda-gym>=3.0.7
+pybullet>=3.2.5
+
+# Deep learning (install with CUDA for GPU support)
+torch>=2.0.0
+numpy>=1.24.0
+
+# Video recording and visualization
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Monitoring and logging
+tensorboard>=2.14.0
+tqdm>=4.65.0
+matplotlib>=3.7.0
+
+# Utilities
+rich>=13.0.0
