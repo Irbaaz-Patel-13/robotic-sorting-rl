@@ -249,11 +249,11 @@ Some ideas I'd like to explore:
 
 ## Acknowledgments
 
-Thanks to the panda-gym and Stable-Baselines3 teams for their excellent open-source libraries. Special thanks to the RL community on Reddit and Discord for answering my countless questions about HER and sparse rewards.
+Thanks to the panda-gym and Stable-Baselines3 teams for their excellent open-source libraries.
 
 ## Author
 
 **Irbaaz Patel**  
-MSc Robotics & Embedded Systems, Heriot-Watt University
+MSc Robotics, Heriot-Watt University
 
 Feel free to reach out with questions or suggestions!
