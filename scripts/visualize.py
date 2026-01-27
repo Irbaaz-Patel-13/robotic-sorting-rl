@@ -87,7 +87,7 @@ def watch_agent(args):
                 done = terminated or truncated
                 
                 # Small delay for better visualization
-                time.sleep(0.02)
+                time.sleep(0.03)
             
             success = "Success!" if info.get('is_success', False) else "Failed"
             print(f"Episode {episode}: {success} | Reward: {ep_reward:.2f}")
